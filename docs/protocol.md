@@ -9,7 +9,10 @@ of the content on this page is subject to changes - this notice will be removed 
 will become available as soon as the protocol reaches a stable state.
 
 Please note that you are currently viewing the protocol specification for Dante-2, if you were looking
-for the specification of thr now-defunct Dante-1 then please go [here]().
+for the specification of thr now-defunct Dante-1 then please go [here](d1/protocol.md).
+
+Dante-2 uses [ProtocolBuffers](https://developers.google.com/protocol-buffers) to encode the parts of the messages that make-up one whole message, in other
+words how the message is _encoded_.
 
 ## Client protocol
 
