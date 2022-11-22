@@ -6,6 +6,11 @@ servers implement the [Dante-2](protocol.md) protocol fully as the protocol is s
 include these daemons which implement it to some extent so that people can begin playing around with the product as soon as
 possible.
 
+
+<center>
+
 | Name  | Description | Source |
 |-------|-------------|--------|
-| dnetd |  Official implementation of Dante-2 | Not available |
+| dnetd | Official implementation of Dante-2 | Not available |
+
+</center>
